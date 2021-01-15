@@ -1,0 +1,31 @@
+.container {
+	max-width: 1150px;
+	max-height: 5000px;
+    margin: 40px auto;
+    border:solid 5px black;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    background:url(imagen/fondo-blanco-768x768.jpg);
+}
+body{
+    margin: 0px;
+    font-size: 17px;
+    padding-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+    background:url(imagen/fondo.jpg);
+}
+.tbDatos{
+    text-align: center;  
+
+}
+.striped{
+    text-align: center;   
+}
+.row{
+    text-align: left; 
+}
+.redes{
+    height: 110px;
+    border: solid 1px black;
+    background-color:#E9D8F7;
+}
